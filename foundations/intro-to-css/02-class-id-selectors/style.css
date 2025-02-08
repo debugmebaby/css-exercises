@@ -1,0 +1,18 @@
+.alert-text {
+background-color: rgba(250, 80, 131, 0.979);
+ font-family: verdana, "Dejavu-sans", sans-serif;
+}
+
+#two {
+color: blue;
+font-size: 36px;
+}
+
+#four {
+    background-color: rgb(107, 231, 107);
+    font-size: 24px;
+    font-weight: 700;
+}
+.three {
+    font-size: 24px;
+}
